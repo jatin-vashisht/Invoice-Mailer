@@ -21,7 +21,7 @@ export default function Verify() {
           </div>
           <CardTitle className="text-2xl font-bold">Check you Email</CardTitle>
           <CardDescription>
-            We've sent a verification link to your email address.
+            We&apos;ve sent a verification link to your email address.
           </CardDescription>
         </CardHeader>
         <CardContent>
